@@ -1,0 +1,10 @@
+#!/bin/bash
+0 string SCHOOL School data
+!:mine School
+
+then
+file -C-m school.mgc
+
+then
+
+file -m school.mgc
